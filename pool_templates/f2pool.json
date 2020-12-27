@@ -3,7 +3,7 @@
         "coin": "BTC",
         "servers": [
             {
-                "geo": "China",
+                "geo": "avrupa",
                 "urls": [
                     "stratum.f2pool.com:3333",
                     "stratum.f2pool.com:25"
